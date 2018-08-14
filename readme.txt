@@ -15,3 +15,5 @@ This line is test the branch.
 olala
 
 This line is test the branch. this feature.
+
+test --no-ff
