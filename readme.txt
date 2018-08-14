@@ -18,3 +18,5 @@ Olala
 This line is test the branch. this feature.
 
 test --no-ff
+
+test stash
